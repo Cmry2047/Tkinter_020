@@ -9,3 +9,6 @@ top.geometry("400x500")
 
 judul = tk.Label(top, text="Aplikasi prediksi Prodi Pilihan")
 judul.grid(row=0, column=0, columnspan=2, pady=10)
+
+L1 = tk.Label(top, text="Nilai Mapel 1: ")
+L1.grid(row=1, column=0, sticky="w", padx=20, pady=2)
