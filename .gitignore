@@ -1,0 +1,7 @@
+/.venv
+/build
+/dist
+/main.py
+/praktikum.py
+/praktikum.spec
+/__pycache__
